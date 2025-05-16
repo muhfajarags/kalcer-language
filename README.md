@@ -71,26 +71,18 @@ spill "Udahan ah"
 
 ## 🛠️ Features
 
-- 🎯 Easy to learn syntax using familiar Indonesian slang
+- 🎯 Easy to learn syntax using familiar kalcer grammar
 - 🔄 Automatic translation to JavaScript
 - 📚 Perfect for learning programming concepts
 - 🎨 Syntax highlighting support
-- 🔌 IDE integration available
 
 ## 📚 Documentation
 
 For a complete list of commands and features, check out our [Command Documentation](Command.md).
 
-## 🔧 IDE Support
-
-Make your coding experience better with our IDE integrations:
-
-- [vim-kalcer](https://github.com/cocatrip/vim-kalcer) - Vim plugin for Kalcer
-- [vscode-kalcer-language-support](https://github.com/ngupuk/vscode-kalcer-language-support) - VS Code extension
-
 ## ⚠️ Disclaimer
 
-This project is created for educational purposes and fun. It's designed to make programming more approachable for Indonesian speakers while learning programming concepts. Not intended for production use.
+This project is created for educational purposes and fun. It's designed to make programming more approachable for Kalcer people while learning programming concepts. Not intended for production use.
 
 ## 🤝 Contributing
 
@@ -103,5 +95,5 @@ MIT License - feel free to use this project for learning and fun!
 ---
 
 <div align="center">
-  Made with ❤️ in Indonesia
+  Made with ❤️ for Kalcer People
 </div>
