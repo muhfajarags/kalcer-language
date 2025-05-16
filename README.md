@@ -1,58 +1,59 @@
-## (人◕‿◕) 𝕒𝕣𝕔𝕙𝕚𝕖𝕧𝕖𝕕 (•◡•)
+# 🚀 Kalcer Language
+Note: This project fork from jaksel-language!.
 
-This project archived!, You still can clone/fork if you want to build for your own. I do this because no further feature and this project only just for fun. Thanks for all your support!
+<div align="center">
+  <img src="https://img.shields.io/badge/language-JavaScript-yellow.svg" alt="JavaScript">
+  <img src="https://img.shields.io/badge/purpose-educational-blue.svg" alt="Purpose">
+  <img src="https://img.shields.io/badge/status-active-success.svg" alt="Status">
+</div>
 
----
+## 📖 About
 
-# Jaksel Script
+Kalcer Language is a modern, fun, and easy-to-learn programming language that uses Kalcer Language. Perfect for beginners - no programming experience required! It translates Kalcer Language into JavaScript, making programming more accessible and enjoyable for Kalcer People.
 
-Jaksel Script is a new programming language, very modern, easy to learn, using Indonesia-slang language. No programming experience required.
+## 🌟 Created By
 
-Thank you for all your contributions, share, star, and everything.
+**Muhammad Fajar Agus Saputra**
 
-## Instalation & Run
+This project is inspired by the amazing work of **Mas Sugi** from the TRAVLR Search Team. Their innovative approach to technology has been a great inspiration for this project.
 
-Install from npm
-```bash
-npm install -g jaksel-language
-```
-Or Clone this repository
+## 🚀 Quick Start
 
-```bash
-git clone https://github.com/RioChndr/jaksel-language.git
-```
+### Installation
 
-### Run
-
-If you install from npm, run jaksel script using `jaksel` command
+You can install Kalcer Language using npm:
 
 ```bash
-jaksel example/example1.jaksel
+npm install -g kalcer-language
 ```
 
-Or run from this repository
+Or clone this repository:
+
+```bash
+git clone https://github.com/muhfajarags/kalcer-language.git
+cd kalcer-language
+npm install
 ```
-node jaksel-interpreter.js example/example1.jaksel
+
+### Running Your First Kalcer Program
+
+Create a file with `.kalcer` extension and run it:
+
+```bash
+kalcer example/example1.kalcer
 ```
 
-## Table Of Content
+Or run directly using Node.js:
 
-* [Jaksel Script](#jaksel-script)
-   * [Instalation &amp; Run](#instalation--run)
-   * [Table Of Content](#table-of-content)
-   * [Example](#example)
-   * [Command](#command)
-  * [Disclaimer](#disclaimer)
-   * [Showcase](#showcase)
-      * [Highlight Text Editor](#highlight-text-editor)
-
-[github-markdown-toc](https://github.com/ekalinin/github-markdown-toc)
-
-## Example 
-
-Example : 
-
+```bash
+node kalcer-interpreter.js example/example1.kalcer
 ```
+
+## 📝 Example
+
+Here's a simple example of Kalcer code:
+
+```kalcer
 literally umur itu 21
 spill "Umur lu " + umur
 kalo umur lebih gede 20
@@ -68,37 +69,39 @@ udahan
 spill "Udahan ah"
 ```
 
-```
-literally jumlah itu 10
-spill "Jumlah: " + jumlah
+## 🛠️ Features
 
-whichis jumlah itu 11
-spill "Jumlah: " + jumlah
+- 🎯 Easy to learn syntax using familiar Indonesian slang
+- 🔄 Automatic translation to JavaScript
+- 📚 Perfect for learning programming concepts
+- 🎨 Syntax highlighting support
+- 🔌 IDE integration available
 
-literally isHidup itu positive vibes
-spill "is hidup :" + isHidup
+## 📚 Documentation
 
-fomo i endup 10
-  kalo i lebih gede 3
-    spill "loop ke " + i
-  udahan
-udahan
-```
+For a complete list of commands and features, check out our [Command Documentation](Command.md).
 
-### Command
+## 🔧 IDE Support
 
-Some command just like javascript, the only different is keyword and this language will translate to javascript and run as javascript. I know, this is just for fun.
+Make your coding experience better with our IDE integrations:
 
-- [List Command](Command.md)
+- [vim-kalcer](https://github.com/cocatrip/vim-kalcer) - Vim plugin for Kalcer
+- [vscode-kalcer-language-support](https://github.com/ngupuk/vscode-kalcer-language-support) - VS Code extension
 
-### Disclaimer
+## ⚠️ Disclaimer
 
-This project just for fun, I don't want to hurt anyone. Just from idea "what if jaksel language is a programming language" and make it true. This project only for education purpose, not for production ready.
+This project is created for educational purposes and fun. It's designed to make programming more approachable for Indonesian speakers while learning programming concepts. Not intended for production use.
 
-## Showcase
+## 🤝 Contributing
 
-Some cool project from you, submit your project like highlight text, jaksel-to-js, etc. Make PR link to your repo !. Don't limit your creativity
+Feel free to contribute! Whether it's adding new features, improving documentation, or reporting bugs, your help is welcome.
 
-### Highlight Text Editor
-- [vim-jaksel](https://github.com/cocatrip/vim-jaksel) jaksel programming language plugin for (n)vim
-- [vscode-jaksel-language-support](https://github.com/ngupuk/vscode-jaksel-language-support) visual studio code extension for syntax highlighting, code snippet, and auto formatting
+## 📜 License
+
+MIT License - feel free to use this project for learning and fun!
+
+---
+
+<div align="center">
+  Made with ❤️ in Indonesia
+</div>

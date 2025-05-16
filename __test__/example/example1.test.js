@@ -5,7 +5,7 @@ const e2eTest = require("./e2e-test")
 describe('End To End Test example 1', () => {
   it('Should return as expected value', done => {
     e2eTest({
-      target: "example/example1.jaksel",
+      target: "example/example1.kalcer",
       contain: "Umur lu 21\nElu tua\nKalo gua umurnya 31\ngua lebih tua\nUdahan ah\n"
     }, done)
   })
