@@ -15,7 +15,7 @@ Kalcer Language is a modern, fun, and easy-to-learn programming language that us
 
 **Muhammad Fajar Agus Saputra**
 
-This project is inspired by the amazing work of **Mas Sugi** from the TRAVLR Search Team. Their innovative approach to technology has been a great inspiration for this project.
+This project is inspired by the amazing work of **Mas Sugi** from the TRAVLR Search Team. His innovative approach to technology has been a great inspiration for this project.
 
 ## 🚀 Quick Start
 

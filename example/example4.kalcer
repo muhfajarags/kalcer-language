@@ -1,0 +1,33 @@
+literally nilai itu 75
+
+// Contoh penggunaan if-else dengan format baru
+kalo nilai nyampe 80
+  spill "Selamat! Kamu dapat nilai A"
+udahan
+
+kalo nilai belum nyampe minimal 70
+  spill "Lumayan, kamu dapat nilai B"
+udahan
+
+kalo ga nyampe
+  spill "Waduh, kamu harus belajar lagi"
+udahan
+
+// Contoh nested if dengan format baru
+literally umur itu 25
+literally pengalaman itu 3
+
+kalo umur nyampe 25
+  spill "Usia kamu sudah cukup"
+  kalo pengalaman nyampe 5
+    spill "Dan pengalaman kamu bagus!"
+  udahan
+udahan
+
+kalo pengalaman belum nyampe minimal 3
+  spill "Tapi pengalaman masih kurang"
+udahan
+
+kalo ga nyampe
+  spill "Pengalaman kamu masih sangat kurang"
+udahan 
